@@ -13,10 +13,8 @@ What other changes can you observe over time?
 ## Analysis i want to know
 
 
+* Next language based in WantWorkLanguage
+* Next language by Professional
+* The time of work made any influence in next language?
+* What is language or languages with more satisfaction?
 * How to clean categorical data more easily
-* Python use by year
-* Python evolution
-
-## Prediction
-
-* Next language top 5
