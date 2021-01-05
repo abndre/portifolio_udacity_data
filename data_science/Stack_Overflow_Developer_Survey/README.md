@@ -18,3 +18,8 @@ What other changes can you observe over time?
 * The time of work made any influence in next language?
 * What is language or languages with more satisfaction?
 * How to clean categorical data more easily
+
+
+## Publication on Medium
+
+[Categorial Data Tips](https://andrezio.medium.com/categorial-data-tips-c805b5075e2e)
