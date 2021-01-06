@@ -23,3 +23,19 @@ What other changes can you observe over time?
 ## Publication on Medium
 
 [Categorial Data Tips](https://andrezio.medium.com/categorial-data-tips-c805b5075e2e)
+
+# Instalation and Use
+
+```
+pip install jupyter
+pip install pandas
+pip install numpy
+```
+
+Or use requirements file in this folder
+
+```
+pip install -r requirements.txt 
+```
+
+And use Jupyter-notebook.
