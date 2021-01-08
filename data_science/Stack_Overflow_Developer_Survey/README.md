@@ -22,4 +22,4 @@ What other changes can you observe over time?
 
 ## Publication on Medium
 
-[Categorial Data Tips](https://andrezio.medium.com/happiness-and-programming-language-fe52c0bcdd03)
+[Happiness and Programming Language](https://andrezio.medium.com/happiness-and-programming-language-fe52c0bcdd03)
