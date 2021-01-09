@@ -26,6 +26,10 @@ In this analysis I try to find a relationship between work and happiness.
 
 ## Overview Project
 
+My portfolio, at the root there is a README 
+for installation and an index for each of the folder 
+/data_science, where I will be organizing the projects, 
+with the necessary files for the analysis of the notebook.
 
 ``` 
 ├── LICENSE
